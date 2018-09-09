@@ -1,2 +1,4 @@
 # Number-Guesser
-A bot that will guess a chosen number between 1-100
+
+A bot made in java that guesses any number 
+chosen by the user that is between 1 and 100
